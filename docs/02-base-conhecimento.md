@@ -1,14 +1,5 @@
 # Base de Conhecimento
 
->[!TIP]
-> **Prompt sugerido para essa etapa:**
-> Eu preciso organizar a base de conhecimento do meu agente fincanceiro "Spendfy".
-> Me ajude a:
-> (01) Decidir como utilizar cada um,
-> (02) Criar um exemplo de contexto para incluir no prompt,
-> (03) Entender o que cada arquivo contém.
-
-
 ## Dados Utilizados
 
 Descreva se usou os arquivos da pasta `data`, por exemplo:
