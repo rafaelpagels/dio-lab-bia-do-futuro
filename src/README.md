@@ -13,7 +13,7 @@ use o modelo gpt-oss:120b em núvem, como no caso desse projeto. Para utilizar, 
 ollama run gpt-oss "Olá!"
 ```
 
-##Código Completo
+## Código Completo
 
 Todo o código-fonte está no arquivo `app.py`
 
