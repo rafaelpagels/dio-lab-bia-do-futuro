@@ -29,7 +29,7 @@ Não. Usarei os mesmos dados que foram fornecidos para o projeto.
 Serão carregados através de um script em Python:
 
 ```python
-import panda as pd
+import pandas as pd
 import json
 
 #CSVs
